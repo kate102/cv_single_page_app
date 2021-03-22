@@ -26,6 +26,7 @@ a {
 h1, h2 {
     font-weight: 300;
     line-height: 1.2;
+    font-size: 55px;
 }
 
 p {
@@ -129,6 +130,7 @@ img {
 
 .text-primary {
     color: #28a745;
+    margin-bottom: 15px;
 }
 
 .text-secondary {
