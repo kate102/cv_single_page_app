@@ -18,10 +18,7 @@ ul {
     list-style: none; /* no bullets on the list*/
 }
 
-a {
-    color: #333;
-    text-decoration: none; /* removes the underline on links */
-}
+
 
 h1, h2 {
     font-weight: 300;

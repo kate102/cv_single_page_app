@@ -70,3 +70,7 @@
     color: #008080;
 }
 
+a {
+    color: #008080;
+    text-decoration: none; /* removes the underline on links */
+}
