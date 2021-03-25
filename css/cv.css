@@ -76,8 +76,11 @@ a {
 }
 
 img.resize {
-    max-width:75%;
-    max-height:75%;
+    /* max-width:75%;
+    max-height:75%; */
+    height: 600px;
+    width: 300px;
     justify-content: center;
     align-items: center;
+    object-fit: cover;
 }
